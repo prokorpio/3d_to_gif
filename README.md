@@ -2,4 +2,4 @@
 Convert 3d models to gif using blender
 
 Sample Output:
-![](model_300v.gif)
+![asdf](outputs/model_300v.gif)
